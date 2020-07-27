@@ -2,7 +2,7 @@ package attack.physical;
 
 import ru.ifmo.se.pokemon.*;
 
-class Facade extends PhysicalMove {
+public class Facade extends PhysicalMove {
     public Facade() {
         super(Type.NORMAL, 70, 100);
     }
