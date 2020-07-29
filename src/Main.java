@@ -13,5 +13,6 @@ public class Main {
         battle.addFoe(new Nuzleaf("Nuzleaf"));
         battle.addFoe(new Shiftry("Shiftry"));
         battle.go();
+        System.out.println("Торт - это ложь");
     }
 }
